@@ -20,4 +20,37 @@ Higher values suggest man-made surfaces like buildings and roads, while lower va
 - It also adds temperature and air quality values from MODIS and Sentinel-5P for both mine and forest points.  
 - All results are saved to `zone_features_with_forest.csv` and enriched to `zone_features_enriched.csv`.
 
+# Topic 3: Resources
 
+### Hands-on Learning
+
+- **Machine Learning (Codebasics)**  
+  [Watch on YouTube](https://youtu.be/i_LwzRVP7bg?si=XzBY1XZMLbkDQHyq)
+
+- **TensorFlow Project Example**  
+  [Watch on YouTube](https://youtu.be/VtRLrQ3Ev-U?si=35fxQsChnnU1I3zs)
+
+### Pandas
+
+- **Cheat Sheet (Datacamp)**  
+  [View PDF](https://media.datacamp.com/legacy/image/upload/v1676302204/Marketing/Blog/Pandas_Cheat_Sheet.pdf)
+
+- **Tutorial (CodeWithHarry)**  
+  [Watch on YouTube](https://youtu.be/RhEjmHeDNoA?si=r0cOV8U6zYUBRsqa)
+
+### Deep Learning
+
+There are two major frameworks:
+
+- **TensorFlow Playlist**  
+  [Watch Playlist](https://youtube.com/playlist?list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&si=Xn0LTOONl5vmH_2h)
+
+- **PyTorch Playlist**  
+  [Watch Playlist](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
+
+### Theory and Conceptual Understanding
+
+- **Andrew Ng's Machine Learning Specialization (Coursera)**  
+  [Go to Course](https://www.coursera.org/specializations/machine-learning-introduction)
+
+You can audit the course for free and access all lectures. Only assignments are locked. Financial aid is also available.
