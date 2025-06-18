@@ -1,5 +1,6 @@
 # SoC-EnvironmentRisk
 
+#Topic 1
 NDVI (Normalized Difference Vegetation Index)
 NDVI shows how green or healthy the vegetation is by comparing how much red light is absorbed and how much near-infrared light is reflected by plants.
 
@@ -10,6 +11,7 @@ NDBI helps identify urban or built-up areas by measuring the contrast between sh
 
 Higher values suggest man-made surfaces like buildings and roads, while lower values usually represent vegetation or water bodies.
 
+#Topic 2
 - Start with `Geocode_List.py`, it reads mining names from `data.xlsx`, searches Wikipedia for coordinates, extracts them using regex, converts to decimal, and saves to `Harshvardhan_coords.csv`.  
 - These coordinates are used in `sample_task1.ipynb`, which connects to Google Earth Engine and defines a 5×5 km mining area plus 14 km surroundings for each mine.  
 - It exports 10 images per mine to Google Drive like NDVI maps for 2020 and 2024, urban fraction, land-use, and true color scenes.  
