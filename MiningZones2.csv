@@ -1,0 +1,63 @@
+Name,State,City,Lat,Long
+Hutti_Gold_mines,Karnataka,Raichur,16.196944,76.66
+Kolar_Gold_Fields,Karnataka,Kolar,12.961944,78.271111
+Kudremukh_iron_ore_mines,Karnataka,Chikmagalur,13.316667,75.766667
+Donimalai_Iron_ore_mines,Karnataka,Bellary,15.058889,76.593611
+Tummalapalli_Uranium_Mines,Andhra Pradesh,Kadapa,16.516667,80.516667
+Sagar_Cements_Limestone_Mines,Andhra Pradesh,Peddapalli,19.95,79.3
+Singareni_Collieries_coal_mines,Telangana,Nalgonda,17.824444,79.187778
+Vikarabad_Limestone_Mines,Telangana,Vikarabad,17.2575,77.5875
+Adilabad_Limestone_Mines,Telangana,Adilabad,17.0,81.8
+Nalgonda_Limestone_mines,Telangana,Nalgonda,15.735,80.92
+Neyveli_Lignite_Mine,Tamil Nadu,Cuddalore,11.533333,79.483333
+Panandhro_Lignite_Mine,Gujarat,Kachchh,23.915,70.366944
+Panna_Diamond_Mine,Madhya Pradesh,Panna,24.266667,80.166667
+Malajkhand_Copper_Mine,Madhya Pradesh,Balaghat,22.001389,80.709167
+Balaghat_Manganese_Mine,Madhya Pradesh,Balaghat,21.966667,80.333333
+Singrauli_Coalfield,Madhya Pradesh,Singrauli,24.201944,82.666111
+Satna_Limestone_Mines,Madhya Pradesh,Satna,23.383333,79.743889
+Rampura_Agucha_Mine,Rajashthan,Bhilwara,26.6,73.8
+Sukinda_Chromite_Mine,Odissa,Jajpur,20.945833,86.129167
+Joda_East_Iron_Ore_Mine,Odissa,Keonjhar,20.266667,85.816667
+Gevra_mine,Chattisgarh,Korba,22.35,82.683333
+Dipka,Chattisgarh,Korba,21.25,81.6
+Jharia_Coalfield,Jharkhand,Dhanbad,23.751556,86.420333
+Bokaro_Coal_Mine,Jharkhand,Bokaro,23.689167,86.11
+Amrapali_Coal_Mine,Jharkhand,Chatra,23.894167,85.000556
+North_Karanpura_Coalfield,Jharkhand,Hazaribagh,24.0,85.25
+Noamundi_Iron_Ore_Mine,Jharkhand,West Singhbhum,22.15,85.533333
+Jaduguda_Uranium_Mine,Jharkhand,East Singhbhum,23.35,85.333333
+Koderma_Mica_Mine,Jharkhand,Koderma,24.47,85.59
+Ashoka_Opencast_Mine,Jharkhand,Chatra,23.691111,85.066667
+Rajmahal_Coalfield,Jharkhand,Godda,25.05,87.833333
+Daltonganj_Coalfield,Jharkhand,Palamu,24.03,84.07
+Giridih_Coalfield,Jharkhand,Giridh,24.18,86.32
+Garampani_Coal_Block,Assam,Karbi Anglong,26.183333,93.566667
+Tipong_Colliery,Assam,Tinsukia(Makum),27.3,95.85
+Ledo_Open_Cast_Project,Assam,Tinsukia(Makum),27.489464,95.360144
+Dehradun_Limestone_and_Dolomite_Mines,Uttarakhand,Dehradun,30.416667,79.333333
+Nainital_Limestone_Mines,Uttarakhand,Nainital,29.6,79.7
+Tosham_Tin_and_Tungsten_mines,Haryana,Bhiwani,28.883333,75.916667
+Ambala_Limestone_Mines,Haryana,Ambala,27.892222,76.112222
+Khanpur_Public_Mining_Site,Punjab,Amritsar,32.156667,74.19
+Baramulla_Gypsum_Mines,J&K,Baramulla,33.09,74.79
+Paddar_Sapphire_Mines,J&K,Doda,33.155556,76.092778
+Bauxite_Belt,Uttar Pradesh,Lalitpur,26.23,81.24
+Granite_Cluster,Uttar Pradesh,Banda,24.683333,78.416667
+Keonjhar_Iron_Ore_Belt,Odisha,Keonjhar,21.633056,85.6
+Sukinda_Chromite_Valley,Odisha,Sukinda,20.966667,85.916667
+Bailadila_Iron_Ore_Range,Chhattisgarh,Bailadila,18.7,81.219444
+Bhandara_Manganese_Belt,Maharashtra,Bhandara,8.077222,77.532222
+Kadapa_Barytes_Mines,Andhra Pradesh,Kadapa,14.475,78.821944
+Ambaji_Copper_Mines,Gujarat,Ambaji,23.769722,68.645556
+UCIL_Uranium_Mines,Jharkhand,Jaduguda,22.653333,86.346667
+Thar_Desert_Gypsum_Mines,Rajasthan,Bikaner,29.916667,73.883333
+Koraput_Bauxite_Mines,Odisha,Koraput,18.808333,82.708333
+Chiria_Iron_Ore_Mine,Jharkhand,Chiria,22.3,85.266667
+Narwapahar_Uranium_Mine,Jharkhand,Narwapahar,22.65,86.366667
+Tummalapalle_Uranium_Mines,Andhra Pradesh,Tummalapalle,14.316667,78.266667
+Jharsuguda_Coalfield,Odisha,Jharsuguda,21.85,84.016111
+Talcher_Coalfield,Odisha,Talcher,20.966667,85.133333
+Chandrapur_Coal_Mines,Maharashtra,Chandrapur,19.95,79.296944
+Lohardaga_Bauxite_Mines,Jharkhand,Lohardaga,23.433333,84.683333
+Udaipur_Zinc_Mines,Rajasthan,Udaipur,24.583333,73.683333
