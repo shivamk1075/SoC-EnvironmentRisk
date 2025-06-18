@@ -10,3 +10,12 @@ NDBI helps identify urban or built-up areas by measuring the contrast between sh
 
 Higher values suggest man-made surfaces like buildings and roads, while lower values usually represent vegetation or water bodies.
 
+- Start with `Geocode_List.py`, it reads mining names from `data.xlsx`, searches Wikipedia for coordinates, extracts them using regex, converts to decimal, and saves to `Harshvardhan_coords.csv`.  
+- These coordinates are used in `sample_task1.ipynb`, which connects to Google Earth Engine and defines a 5×5 km mining area plus 14 km surroundings for each mine.  
+- It exports 10 images per mine to Google Drive like NDVI maps for 2020 and 2024, urban fraction, land-use, and true color scenes.  
+- `Annonated.py` reads these `.tif` files, resizes them, adds a white background, and pastes legends if needed. It creates final PNGs with proper labels in `task1/`.  
+- `task2_dataScrap.ipynb` reads satellite images and calculates forest loss, average distance to nearby forest, urban growth, land-use change, and finds the nearest forest using reverse geocoding.  
+- It also adds temperature and air quality values from MODIS and Sentinel-5P for both mine and forest points.  
+- All results are saved to `zone_features_with_forest.csv` and enriched to `zone_features_enriched.csv`.
+
+
