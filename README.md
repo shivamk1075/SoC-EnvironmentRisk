@@ -39,6 +39,12 @@ Higher values suggest man-made surfaces like buildings and roads, while lower va
 - **Tutorial (CodeWithHarry)**  
   [Watch on YouTube](https://youtu.be/RhEjmHeDNoA?si=r0cOV8U6zYUBRsqa)
 
+  ### Pandas
+
+- **Cheat Sheet (Datacamp)**  
+  [View PDF](https://media.datacamp.com/legacy/image/upload/v1676302459/Marketing/Blog/Numpy_Cheat_Sheet.pdf)
+
+
 ### Deep Learning
 
 There are two major frameworks:
