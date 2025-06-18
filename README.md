@@ -26,7 +26,7 @@ Higher values suggest man-made surfaces like buildings and roads, while lower va
 
 - **Machine Learning (Codebasics)**  
   [Watch on YouTube](https://youtu.be/i_LwzRVP7bg?si=XzBY1XZMLbkDQHyq)
-  This is enough to start and work on our project and further resources will enhance your skills
+  This is enough to start and work on our project 
 
 - **TensorFlow Project Example**  
   [Watch on YouTube](https://youtu.be/VtRLrQ3Ev-U?si=35fxQsChnnU1I3zs)
